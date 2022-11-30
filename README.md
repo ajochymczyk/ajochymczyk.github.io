@@ -1,4 +1,4 @@
-nes (5 sloc)  132 Bytes
+theme:jekyll-theme-minimal
 
 title: Slate theme
 description: Slate is a theme for GitHub Pages.
