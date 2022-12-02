@@ -1,9 +1,10 @@
 # ajochymczyk.github.io
 
-Witaj na mojej stronie internetowej :)
+### Witaj na mojej stronie internetowej :)
 
 
-Przedstawię kilka faktów:
+# Przedstawię kilka faktów:
+
 * W ramach projektu wraz z zespołem PRE-ENGINEERS pracuję nad stworzeniem aplikacji dla studentów tzw. Studunity, która ma za zadanie ułatwić życie studentom
 * Studunity tworzyć będzie spłeczność studencka dzieląca się materiałami
 * Wszystkie notatki będą weryfikowane pod względem merytorycznym przez administratorów, ekspertów w swoich dziedzinach
