@@ -1,3 +1,7 @@
-Witam na mojej stronie internetowej:)
+Witam na mojej stronie internetowej :)
 
-Przedstawię kilka faktów o mnie
+Źródłem inspiracji jest zadanie domowe z "Narzędzi informatycznych"
+
+Przedstawię kilka faktów o mnie:
+ 
+
