@@ -11,5 +11,5 @@
 * Koniec problemów z dostępnością materiałów, wszystkie potrzebne notatki zgromadzimy w jednym miejscu
 * Nasza ekologiczna aplikacja zachęca do odejścia od zużywania nadmiernej ilości papieru
 
-PS
+
 Mam nadzieję, że widać użyty motyw ,,Slate", bo kosztowało to wiele wysiłku i wyrzeczeń
