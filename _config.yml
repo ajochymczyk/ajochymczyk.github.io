@@ -1,7 +1,1 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme 
 
-
-title: [ajochymczyk.github.io]
-description: [Źródłem inspiracji powstania tej strony internetowej było zadanie domowe]
